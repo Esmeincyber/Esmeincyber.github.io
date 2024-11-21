@@ -11,7 +11,7 @@ CATbook is a CATegory-centric Jekyll theme for bloggers. There is a switch butto
 ## Setup
 
 ```sh
-$ git clone https://github.com/starry99/catbook
+$ git clone https://Esmeincyber.github.io
 $ jekyll serve
 
 # Now you can start customization!
