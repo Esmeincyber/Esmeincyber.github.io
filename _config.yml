@@ -6,16 +6,6 @@ description: "您好，这里是Verde的私人存档blog，请勿二转二传，
 baseurl: /
 url: "https://esmeincyber.github.io/" # the base hostname & protocol for your site
 
-permalink: /:year-:month/:title
-timezone:
-
-favicon: /assets/img/favicon.ico
-
-google_analytics: #UA—XXXXXXXX-X
-disqus_shortname: #disqus shortname
-cusdis:
-    app_id: #your cusdis app_id
-
 user:
   name: "Verde"
   pic: /assets/img/f2577bb1a7c551f3f105ceb43679cd7f.png
