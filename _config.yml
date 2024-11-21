@@ -20,11 +20,11 @@ cusdis:
     app_id: #your cusdis app_id
 
 user:
-  name: Catbook
+  name: Verde
   pic: /assets/img/cat.jpg
-  picAlt: "catbook"
-  job: a category-centric theme
-  aboutme: true # comment this out if you don't need the 'about' page.
+  picAlt: "VerdeLib"
+  job: 私人存档用blog
+  aboutme: 您好，这里是Verde的私人存档blog，请勿二转二传，预祝食用愉快w
 
 exclude:
   - README.md
